@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>Andrew Jayasinghe</title>
+  <style> 
+   h1 {text-align: center; color:blue;font-family: cursive }
+   #paragraph {color:brown; font-size: 150%; font-family: cursive;
+                }  
+   img {display:block;
+        margin-left: auto;
+        margin-right:auto;
+   } 
+
+.location{color:chartreuse}
+  ul{list-style-position: inside;font-family: cursive }
+  </style>
+  </head>
+  <body>
+      <h1>ANDREW JAYASINGHE</h1>
+      <img src="images/andrew.JPG" alt="my pic" width="150" height="150" >
+ 
+      
+      <p id="paragraph"> - I am <b><span class="location">Andrew Jayasinghe</span></b> and i am a first year Computer Informations tech Student at BCIT.</p>
+      <p id="paragraph">- I am from <b><span class="location">Sri Lanka</span></b> which is a tiny island off of the coast of india.</p>
+     <p id="paragraph"> - I like programming.</p>
+     <p id="paragraph">- I will be taking the following classes this term.</p>
+     <ul>
+      <div style="background-color: gold; width: 500px;"><a href="https://www.bcit.ca/study/outlines/20193044280"><li><b>ACIT 1420</b>
+          <p> This course introduces students to the configuration,
+             maintenance, and administration of a Windows laptop computer. 
+             Topics include: An introduction to PC hardware, functions of an operating system (OS),
+             dows OS architecture, file and disk management, BIOS and UEFI, multi-boot, virtual machines, 
+             software installation/removal, performance tuning, backing up and protecting data, 
+             troubleshooting, networking, security, virus protection, and firewalls</p></li></a></div>
+
+
+      <div style="background-color:lightskyblue;  width: 500px;"><a href="https://www.bcit.ca/study/outlines/20193034323"><li><b>ACIT 1620</b>
+            <p>This course introduces the fundamental principles and techniques for 
+              designing and developing effective Web sites. Topics include: hand-coding pages with HTML;
+              styling text and content with CSS; adding dynamic features with client-side 
+              scripting techniques; server-side scripting,
+              and, managing files and Web sites using FTP software. Students will also be 
+              introduced to information architecture and
+              interface design,
+              XML, as well as advanced mark-up techniques using DHTML. 
+              This course is the foundation for more advanced web courses</p></li></a></div>
+
+       <div style="background-color:yellowgreen;  width: 500px;"><a href="https://www.bcit.ca/study/outlines/20193041874"><li><b>MATH 1310</b>
+          <p>This course introduces students to the core mathematical constructs that underlie information technology. 
+            It is designed to provide 
+            a good base for future technical and programming courses.
+             Topics to be covered include select topics from discrete mathematics such as Boolean algebra,
+              numeric systems and data representation,
+              as well as algebraic fundamentals such as algebraic operations, 
+            functions, equations and logarithms, linear systems, vectors and matrices.</p></li></a></div>
+
+       <div style="background-color:rgb(26, 201, 85);  width: 500px;"><a href="https://www.bcit.ca/study/outlines/20193034328"><li><b>COMM 1116</b>
+            <p>Information technology professionals spend time each day communicating orally and in writing with their supervisors,
+               colleagues and clients. As problem-solvers and entrepreneurs in industry,
+                you need to communicate quickly, clearly, and effectively. 
+                This course will teach you how to be a professional and efficient communicator at work. 
+                You will write effective business correspondence and instructions and deliver a formal oral presentation to your set.
+                 The first term establishes the principles and basic patterns on which you will build more 
+                 advanced applications in the second term.</p></a></li></div>
+
+       <div style="background-color:rgb(141, 150, 14);  width: 500px;"><a href="https://www.bcit.ca/study/outlines/20193034356"><li><b>ACIT 1630</b></li>
+            <p>This course covers relational database technology, including basic concepts, relational algebra,
+               enhanced entity-relationship data modeling, functional dependencies and normalization,
+                design methodology, SQL query language (DDL and DML), views, security and transaction management.</p></a></li></div>
+
+       <div style="background-color:rgb(224, 86, 86);  width: 500px;"><a href="https://www.bcit.ca/study/outlines/20191078112"><li><b>RGB 1100</b>
+           <p>Presents the study of factors that either influence or are influenced by people at work. 
+             The course will focus on macro factors such as organizational structure, 
+             technology and environment; group factors such as group dynamics, leadership, conflict, 
+             change and decision making; and micro or individual factors such as personality, 
+             attitudes, perception and motivation.</p></a></li></div>   
+
+       <div style="background-color:lightcoral;  width: 500px;"><a href="https://www.bcit.ca/study/outlines/20193034320"><li><b>ACIT 1515</b>
+         <p>The course introduces the fundamental concepts of programming for IT professionals,
+         with a focus on scripting languages that are commonly found in the workplace. 
+         Projects, assignments, 
+         and activities are representative of tasks that IT professionals are likely
+          to encounter in the workplace.Students taking this course will design, 
+         implement, test, and debug programs that incorporate: variables, expressions, 
+         assignments, I/O, conditional and iterative control constructs, 
+         functions, and parameter passing.
+          The course assumes no previous programming experience.</p></li></a></div>
+
+  </ul>
+         <a href= "https://www.bcit.ca/" id= "paragraph"><img src="images/BCIT.png" 
+          alt="my pic" width="100" height=100 >BCIT</a>
+      <br><br>
+         <a href="resume.html" id= "paragraph">Click for resume</a>
+         <br><br>
+         <a href="http://funnybizblog.com/funny-stuff/funny-computer-cartoons" id="paragraph"><img src="images/elf.png">Click for funny funny-computer-cartoons</a>
+  </body>
