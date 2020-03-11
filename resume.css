@@ -1,0 +1,110 @@
+h1 {text-align: center; color:black;
+    font-family: cursive
+ }
+ h2 {text-align: center; color:black;
+    font-family: cursive
+ }
+#paragraph { font-size: 150%; font-family: cursive;
+             }  
+#paragraph1 { font-size: 150%; font-family: cursive;
+             }  
+
+img {display:block;
+     margin-left: auto;
+     margin-right:auto;
+} 
+a:hover {
+background-color: yellow;
+color: red;
+}
+#paragraph:hover{
+    background-color: yellow;
+}
+#background {
+ width: 100%; 
+ height: 100%; 
+ position: fixed; 
+ left: 0px; 
+ top: 0px; 
+ z-index: -1; /* Ensure div tag stays behind content; -999 might work, too. */
+}
+.big-banner{
+    background-image: url(bax.jpg);
+    background-size: 100%; 
+}
+.stretch {
+ width:100%;
+ height:100%;
+}
+
+.black{
+ font-family: cursive;
+ font-style: oblique;
+ font-size:15;
+}
+.white{
+ color:white;
+  font-family: cursive
+  ;font-style: oblique;
+  font-size:15px;
+}
+.back{
+ background: linear-gradient(-70deg, #d0e610 30%, #72f76e 30%);height: 300px
+}
+.location{color:chartreuse}
+
+ul{
+    list-style-position: inside;
+    font-family: cursive }
+.heading{
+    font-family: cursive;font-style: oblique;font-size:25px;
+}
+.name{
+    background-color: rgba(255, 217, 0, 0.808);
+    width: 45%;
+    margin: 0 auto;
+}
+
+.ACIT1420{
+    background-color: rgba(255, 217, 0, 0.808);
+    width: 900px;
+}
+.a1420{
+    background-color: rgba(255, 217, 0, 0.808);
+}
+.ACIT1620{
+    background-color:lightskyblue;  width: 900px;
+}
+.a1620{
+    background-color:lightskyblue
+}
+.MATH1310{
+    background-color:yellowgreen;  width: 900px;
+}
+.m1310{
+    background-color:yellowgreen
+}
+.COMM1116{
+    background-color:rgba(26, 201, 84, 0.781);  width: 900px;
+}
+.c1116{
+    background-color:rgba(26, 201, 84, 0.781)
+}
+.ACIT1630{
+    background-color:rgb(141, 150, 14);  width: 900px;
+}
+.a1630{
+    background-color:rgb(141, 150, 14)
+}
+.RGB1100{
+    background-color:rgb(224, 86, 86);  width: 900px;
+}
+.r1100{
+    background-color:rgb(224, 86, 86)
+}
+.ACIT1515{
+    background-color:rgba(240, 128, 128, 0.788);  width: 900px;
+}
+.a1515{
+    background-color:rgba(240, 128, 128, 0.788)
+}
